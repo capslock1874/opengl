@@ -1,0 +1,35 @@
+﻿生成启动时间为 2013/4/16 10:23:53。
+     1>项目“C:\Users\capslock\Desktop\AcceleratedParallelTextureOptimization\PTO\graphics\graphics.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\graphics.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\graphics.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ArcBall.cpp Color.cpp Matrix44.cpp Plane.cpp Ray.cpp Triangle.cpp Vector.cpp Vector4.cpp
+         ArcBall.cpp
+         Color.cpp
+         Matrix44.cpp
+         Plane.cpp
+         Ray.cpp
+         Triangle.cpp
+         Vector.cpp
+         Vector4.cpp
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\lib\graphics.lib" /NOLOGO Release\ArcBall.obj
+         Release\Color.obj
+         Release\Matrix44.obj
+         Release\Plane.obj
+         Release\Ray.obj
+         Release\Triangle.obj
+         Release\Vector.obj
+         Release\Vector4.obj
+         graphics.vcxproj -> C:\Users\capslock\Desktop\AcceleratedParallelTextureOptimization\PTO\graphics\..\lib\graphics.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\graphics.unsuccessfulbuild”。
+         正在对“Release\graphics.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\capslock\Desktop\AcceleratedParallelTextureOptimization\PTO\graphics\graphics.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.99
